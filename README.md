@@ -64,7 +64,7 @@ If you're interested in creating and/or packing your own custom asset `.o2r`/`.o
 # Development
 ### Building
 
-If you want to manually compile 2S2H, please consult the [building instructions](docs/BUILDING.md).
+If you want to manually compile 2S2H, please consult the [building instructions](docs/BUILDING.md). caca
 
 
 ### Playtesting
